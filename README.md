@@ -1,2 +1,2 @@
-# https://github.com/montasir41/mo.github.io
+# http://github.com/montasir41/mo.github.io
 mysite
