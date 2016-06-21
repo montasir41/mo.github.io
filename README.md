@@ -1,2 +1,2 @@
-# mo.github.io
+# http://mo.github.io
 mysite
